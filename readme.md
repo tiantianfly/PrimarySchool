@@ -11,7 +11,7 @@
 
 仅以此软件，献给那些热爱编程的程序员老爹们！
 
-[小学数学口算题在线使用地址1](https://bosichong.github.io/demo/psm/)
+[小学数学口算题在线使用地址1](https://www.suiyan.cc/demo/psm/home)
 
 [小学数学口算题在线使用地址2](https://tsukasa521.github.io/PrimarySchoolMathematics)
 
